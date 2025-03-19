@@ -2,7 +2,8 @@
 
 ## Overview
 
-The Video and Product Summary Scraper is a web application that allows users to scrape YouTube videos and product pages to obtain concise summaries. Users can search for products or videos, and the app will provide a summarized version of the relevant content, making it easier to gather key information quickly.
+The Video and Product Summary Scraper is a web application that allows users to scrape YouTube videos and product pages to obtain concise summaries. Users can search for products or videos, and the app will provide a summarized version of the relevant content, making it easier to gather key information quickly. This repo is an identical fork of the original repo [here](https://github.com/julmcardenas/web-scraper-olo)
+
 
 ## Features
 
@@ -69,9 +70,10 @@ The Video and Product Summary Scraper is a web application that allows users to 
 - **Web Scraping**: Puppeteer, Cheerio
 - **Routing**: React Router
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please fork the repository, create a new branch for your feature or bug fix, and submit a pull request.
+## Contributers
+@jahnltib
+@julias
+@luis
 
 ## License
 
